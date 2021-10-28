@@ -1,0 +1,17 @@
+Funcionário	Cod.Cargo	Cargo	Nr. Sal. 	Sal. Bruto 	INSS	Dep.	Sal. Fam. 	IRRF 	Tot. Desc. 	Sal.Liq.
+José Carlos de Almeida	2	Auxiliar de Contabilidade	6	5.988,00	419,16	2	249,50	479,04	898,20	5.339,30
+Marisa Abreu Silva	2	Auxiliar de Contabilidade	6	5.988,00	419,16	2	249,50	479,04	898,20	5.339,30
+Pedro de Almeida	3	Chefe de Cobrança	15	14.970,00	1.497,00	3	374,25	2.395,20	3.892,20	11.452,05
+Vera Jesus	4	Chefe de Expedição	7	6.986,00	489,02	0	0,00	558,88	1.047,90	5.938,10
+Mario Paulo Simões	5	Contador	13	12.974,00	1.297,40	0	0,00	1.816,36	3.113,76	9.860,24
+Sheila Maria de Souza	6	Diretor de Divisão	20	19.960,00	1.996,00	3	374,25	3.193,60	5.189,60	15.144,65
+Maria Lourdes Garcia	5	Contador	13	12.974,00	1.297,40	4	499,00	1.816,36	3.113,76	10.359,24
+Juliana da Silva	6	Diretor de Divisão	20	19.960,00	1.996,00	0	0,00	3.193,60	5.189,60	14.770,40
+Mario Antonio de Abreu	2	Auxiliar de Contabilidade	6	5.988,00	419,16	2	249,50	479,04	898,20	5.339,30
+Wanda Silva Juliano	3	Chefe de Cobrança	15	14.970,00	1.497,00	1	124,75	2.395,20	3.892,20	11.202,55
+Antonio da Silva	4	Chefe de Expedição	7	6.986,00	489,02	1	124,75	558,88	1.047,90	6.062,85
+Cezar Pedro de Jesus	5	Contador	13	12.974,00	1.297,40	0	0,00	1.816,36	3.113,76	9.860,24
+Abel de Souza	1	Análista de Salários	10	9.980,00	848,30	3	374,25	1.197,60	2.045,90	8.308,35
+Antonia de Marinho	2	Auxiliar de Contabilidade	6	5.988,00	419,16	2	249,50	479,04	898,20	5.339,30
+Josefa de Malaquias	3	Chefe de Cobrança	15	14.970,00	1.497,00	0	0,00	2.395,20	3.892,20	11.077,80
+Sonia Silva	7	Diretor de Divisão	20	19.960,00	1.996,00	1	124,75	3.193,60	5.189,60	14.895,15
